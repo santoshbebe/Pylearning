@@ -4,7 +4,6 @@ count = 0
 while(True):
     while(count < 3):
         guess_number = eval(input("Guess the number"))
-        print(secret_number, guess_number)
         if(guess_number < secret_number):
             print("Enter number is less than the secret number")
         elif(guess_number > secret_number):
