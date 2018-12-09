@@ -1,0 +1,40 @@
+h.	Lambdas
+
+6.	Comprehensions(1 class)(22 december)
+a.	List
+b.	Dictionaries
+
+7.	Simple keywords (1 class)(16 december)
+a.	Assert
+e.	Yield
+f.	Raise
+j.	Global
+8.	Condition Evaluation
+e.	With statement
+
+
+
+10.	Classes (2 class)(9/15  december)
+a.	Class Introduction
+b.	Access specifiers
+c.	General OOPS
+
+12.	Exceptions (1 class)(15 december)
+13.	Regular Expressions
+
+14.	Threads(2 classes)(16 december)
+a.	Create threads
+b.	Mutex
+c.	Critical Section
+d.	Tracking status of threads
+
+15.	Database ( 2 classes)(23 december)
+a.	Connecting to database
+b.	Executing the query
+c.	Manipulating the query
+d.	CRUD operations on a database
+e.	Creating table
+f.	Dropping table
+g.	ORM Introduction
+16.	Web programming (Introduction Only)
+

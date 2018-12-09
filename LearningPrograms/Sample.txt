@@ -1,0 +1,12 @@
+This is line 1 
+This is line 2
+Line before blank line 
+
+Line After blank line
+
+Integer line 
+
+S                                                                                   End of line with spaces. 
+
+Last line of the file 
+
